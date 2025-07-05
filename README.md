@@ -1,5 +1,3 @@
-An ecocentric platform where users can circulate the economy by donating and requesting unused and recyclable items
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
